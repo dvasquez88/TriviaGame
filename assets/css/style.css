@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/04wl7Vx/film-reel-white-seamless-loop_v1_jnsrke__F0000.png");
+    background-position: center;
+    background-size: cover; 
+    height: 100%;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+}
